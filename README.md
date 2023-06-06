@@ -1,6 +1,7 @@
 - 👋 Hello! Welcome to my Github profile.
 - 👾 My name is Erick and my nickname is "Arcanum"!
 - 👀 I’m interested in Learning programming and technologies for game development.
+- 💻 Enrolled in Computer Science.
 - 🌱 I’m currently learning HTML, CSS and Bootstrap.
 - 📫 How to reach me: erickalvesqmartins@gmail.com
 
