@@ -6,13 +6,27 @@
 - 📫 How to reach me: erickalvesqmartins@gmail.com
 
 <!---
-Erick-A-Martins/Erick-A-Martins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Read me do meu ✨ perfil mesmo ✨ do github! heh 
 --->
 <br>
 <div>
 <a href="https://github.com/Erick-A-Martins">
 &nbsp&nbsp <img height="115em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-A-Martins&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+Aqui estão algumas das tecnologias que você encontrará nos meus projetos:
+
+- HTML5
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="20" height="20"/>
+
+- CSS3
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="20" height="20"/>
+
+- Linguagem C
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="20" height="20"/>
+
+Sinta-se à vontade para explorar meus repositórios e descobrir mais sobre meus projetos. Se tiver alguma pergunta ou sugestão, não hesite em entrar em contato!
+
+Happy coding! 🚀
   
 
