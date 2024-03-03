@@ -14,6 +14,8 @@ Read me do meu ✨ perfil mesmo ✨ do github! heh
 &nbsp&nbsp <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-A-Martins&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+<br>
+
 Feel free to explore my repositories and discover more about my projects. If you have any questions or suggestions, please don't hesitate to get in touch!
 
 Happy coding! 🚀
