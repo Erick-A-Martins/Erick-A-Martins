@@ -11,14 +11,10 @@ Read me do meu ✨ perfil mesmo ✨ do github! heh
 <br>
 <div>
 <a href="https://github.com/Erick-A-Martins">
-&nbsp&nbsp <img height="115em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-A-Martins&layout=compact&langs_count=7&theme=dracula"/>
+&nbsp&nbsp <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-A-Martins&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-Aqui estão algumas das tecnologias que você encontrará nos meus projetos:
-
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="50" height="50"/>   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="50" height="50"/>   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="50" height="50"/>
-
-Sinta-se à vontade para explorar meus repositórios e descobrir mais sobre meus projetos. Se tiver alguma pergunta ou sugestão, não hesite em entrar em contato!
+Feel free to explore my repositories and discover more about my projects. If you have any questions or suggestions, please don't hesitate to get in touch!
 
 Happy coding! 🚀
   
