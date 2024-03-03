@@ -2,7 +2,7 @@
 - 👾 My name is Erick and my nickname is "Arcanum"!
 - 👀 I'm interested in learning both back-end and front-end programming!
 - 💻 Enrolled in Computer Science.
-- 🌱 I’m currently learning logic programming in C, discrete mathematics, software engineering and computer systems!
+- 🌱 I’m currently learning about JavaScript, database modeling and data structures to enhance my skill set!
 - 📫 How to reach me: erickalvesqmartins@gmail.com
 
 <!---
