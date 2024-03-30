@@ -2,7 +2,6 @@
 
 - 💻 Computer Science student at the Catholic University of Brasilia - UCB.
 - 📚 I’m currently a student at the online school Alura.
-- 👾 Passionate about programming, front-end and back-end development.
 - 🌱 I’m currently learning about JavaScript and Data Science to enhance my skill set!
 
 
