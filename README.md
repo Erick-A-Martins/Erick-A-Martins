@@ -2,7 +2,7 @@
 
 - 💻 Computer Science student at the Catholic University of Brasilia - UCB.
 - 📚 I’m currently a student at the online school Alura.
-- 🌱 I’m currently learning about JavaScript and Data Science to enhance my skill set!
+- 🌱 I’m currently learning about JavaScript, React and Data Science to enhance my skill set!
 
 
 ## Languages e Tools 💻
