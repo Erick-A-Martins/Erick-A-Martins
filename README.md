@@ -19,15 +19,15 @@
 
 ## GitHub Stats ⚡
 
-<div>
+<div align="center">
   <a href="https://github.com/Erick-A-Martins">
-  <center>  
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-A-Martins&layout=compact&langs_count=7&theme=radical"/> 
-  </center>
-  <center>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erick-A-Martins&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="centered image">
-  </center>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-A-Martins&layout=compact&langs_count=7&theme=radical"/>
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img height="180em" src="https://streak-stats.demolab.com/?user=Erick-A-Martins&theme=radical"/>
+  </a>
 </div>
+
 
 ## Reach me 📫
 [![Gmail](https://img.shields.io/badge/-Gmail-86FA00FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erickalvesqmartins@gmail.com)
