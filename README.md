@@ -2,8 +2,6 @@
 
 - 💻 Computer Science student at the Catholic University of Brasilia - UCB.
 - 📚 I’m currently a student at the online school Rocketseat.
-- 🌱 I’m currently learning about JavaScript and React to enhance my skill set!
-
 
 ## Languages e Tools 💻
 <div>
