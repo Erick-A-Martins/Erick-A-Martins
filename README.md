@@ -22,14 +22,18 @@
 
 ## GitHub Stats ⚡
 
-<div align="center">
-  <a href="https://github.com/Erick-A-Martins">
+![Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Erick-A-Martins&layout=compact&langs_count=8&theme=radical)
+![Contributions](https://streak-stats.demolab.com/?user=Erick-A-Martins&theme=radical)
+<!-- <br> -->
+
+<!-- <div align="center">
+  <!-- <a href="https://github.com/Erick-A-Martins">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-A-Martins&layout=compact&langs_count=7&theme=radical"/>
-  </a>
+  </a> 
   <a href="https://git.io/streak-stats">
     <img height="180em" src="https://streak-stats.demolab.com/?user=Erick-A-Martins&theme=radical"/>
   </a>
-</div>
+</div> -->
 
 
 ## Reach me 📫
